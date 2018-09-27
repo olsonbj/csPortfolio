@@ -3,7 +3,7 @@
 * WebPage [here]()
 * Lightning Java [here](https://olsonbj.github.io/lightning2/)
 * Lightning JS [here]()
-* Dice [here] ()
+* Dice [here]()
 
 ```Java
 void draw(){
