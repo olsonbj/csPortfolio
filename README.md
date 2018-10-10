@@ -3,7 +3,7 @@
 * WebPage [here](https://olsonbj.github.io/Bet/website/bet.html)
 * Lightning Java [here](https://olsonbj.github.io/lightning2/)
 * Lightning JS [here]()
-* Dice [here]()
+* Dice [here](https://olsonbj.github.io/dice3/)
 
 ```Java
 void draw(){
