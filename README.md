@@ -4,7 +4,7 @@
 * Lightning Java [here](https://olsonbj.github.io/lightning2/)
 * Lightning JS [here]()
 * Dice [here](https://olsonbj.github.io/dice3/)
-* Chemotaxis [here](
+* Chemotaxis [here](https://github.com/olsonbj/chemotaxis4/)
 
 ```Java
 void draw(){
