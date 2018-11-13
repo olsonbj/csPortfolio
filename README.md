@@ -4,7 +4,9 @@
 * Lightning Java [here](https://olsonbj.github.io/lightning2/)
 * Lightning JS [here]()
 * Dice [here](https://olsonbj.github.io/dice3/)
+* St. Olaf [here](https://docs.google.com/presentation/d/11Z_HYkniHpBh6d3EJUPXrt_Q0RzkkVbHX8872wpqX_M/edit?usp=sharing)
 * Chemotaxis [here](https://github.com/olsonbj/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
+* Starfield [here](https://olsonbj.github.io/starfield5/)
 
 ```Java
 void draw(){
