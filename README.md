@@ -13,7 +13,7 @@ Project! | WEBPAGE!
 
 
 ### *HARD CODE! WOWWWWWW!*
-##### Coding is funnnnnn wowwwwwww!
+##### Chemotaxis processing sound file import!
 ```Java
 import processing.sound.*;
 Note1 []a=new Note1[4];
@@ -43,3 +43,4 @@ void mousePressed() {
   }
 }
 ```
+##### This code was difficult to write because I had to learn how to import sound files from the desktop to play in my project and I had never done that before. I was able to use the functionality of processing with "import processing.sound.*;" in the code.
