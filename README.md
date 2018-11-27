@@ -7,8 +7,7 @@ Project! | WEBPAGE!
  Webpage | [CLICK TO VIEW!](https://olsonbj.github.io/Bet/)
  Lightning | [CLICK TO VIEW!](https://olsonbj.github.io/lightning2/)
  Dice | [CLICK TO VIEW!](https://olsonbj.github.io/dice3/)
- Chemotaxis | [CLICK TO VIEW!](https://olsonbj.github.io/chemotaxis4/)
- Chemotaxis (Java Script) | [CLICK TO VIEW!](https://olsonbj.github.io/chemotaxis4/)
+ Chemotaxis (Java Script - Beta) | [CLICK TO VIEW!](https://olsonbj.github.io/chemotaxis4/newBenJS/benJS/)
  Starfield | [CLICK TO VIEW!](https://olsonbj.github.io/starfield5/)
  St. Olaf College Presentation | [CLICK TO VIEW!](https://docs.google.com/presentation/d/11Z_HYkniHpBh6d3EJUPXrt_Q0RzkkVbHX8872wpqX_M/edit#slide=id.p)
 
