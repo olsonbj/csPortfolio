@@ -3,7 +3,7 @@
 
 Lab! | Link!
 ---|---
- Webpage | [open here!](
+ Webpage | [open here!](https://github.com/olsonbj/Bet/blob/gh-pages/website/bet.html)
  Lightning | [open here!](
  Dice | [open here!](
  Starfield | [open here!](
