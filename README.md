@@ -37,10 +37,8 @@ void mousePressed() {
     if (mouseX>a[i].getX()-a[i].getR()&&mouseX<a[i].getX()+a[i].getR()&&mouseY<a[i].getY()+a[i].getR()&&mouseY>a[i].getY()-a[i].getR()) {
       allFiles[i].play();
       //cursor(HAND);
-    } else {
-      //cursor(CROSS);
     }
   }
 }
 ```
-##### This code was difficult to write because I had to learn how to import sound files from the desktop to play in my project and I had never done that before. I was able to use the functionality of processing with "import processing.sound.*;" in the code.
+##### This code was difficult to write because I had to learn how to import sound files from the desktop to play in my project and I had never done that before. I was able to use the functionality of processing with "import processing.sound.*;" in the code. I then made it so when the mouse is clicked on the particle, it will play one of the four sound files I imported. 
