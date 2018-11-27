@@ -13,6 +13,7 @@ Project! | WEBPAGE!
 
 
 ### *HARD CODE! WOWWWWWW!*
+##### Coding is funnnnnn wowwwwwww!
 ```Java
 import processing.sound.*;
 Note1 []a=new Note1[4];
