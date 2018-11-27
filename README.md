@@ -1,6 +1,6 @@
 # Ben Olson's ACS Portfolio!!!!!!!
 ### *OVERVIEW*
-##### This 
+##### This wepbage is designed to 
 
 Lab! | Link!
 ---|---
