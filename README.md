@@ -1,6 +1,6 @@
 # Ben Olson's ACS Portfolio!!!!!!!
-### *OVERVIEW*
-##### This wepbage is designed to 
+###         *OVERVIEW*
+##### This wepbage is designed to showcase my code from Advanced Computer Science, run by Dr. R
 
 Lab! | Link!
 ---|---
