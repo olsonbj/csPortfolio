@@ -41,4 +41,4 @@ void mousePressed() {
   }
 }
 ```
-##### This code was difficult to write because I had to learn how to import sound files from the desktop to play in my project and I had never done that before. I was able to use the functionality of processing with "import processing.sound.*;" in the code. I then made it so when the mouse is clicked on the particle, it will play one of the four sound files I imported. 
+##### This code was difficult to write because I had to learn how to import sound files from the desktop to play in my project and I had never done that before. I was able to use the functionality of processing with "import processing.sound.*;" in the code. I then made it so when the mouse is clicked within the particle's perimeter, it will play one of the four sound files I imported. 
