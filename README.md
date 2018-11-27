@@ -3,11 +3,11 @@
 
 Lab! | Link!
 ---|---
- Webpage | [CODE!](https://olsonbj.github.io/Bet/)
- Lightning | [CODE!](https://olsonbj.github.io/lightning2/)
- Dice | [CODE!](https://olsonbj.github.io/dice3/)
- Starfield | [CODE!](https://olsonbj.github.io/starfield5/)
- St. Olaf College Presentation | [CODE!](https://docs.google.com/presentation/d/11Z_HYkniHpBh6d3EJUPXrt_Q0RzkkVbHX8872wpqX_M/edit#slide=id.p)
+ Webpage | [CLICK TO VIEW!](https://olsonbj.github.io/Bet/)
+ Lightning | [CLICK TO VIEW!](https://olsonbj.github.io/lightning2/)
+ Dice | [CLICK TO VIEW!](https://olsonbj.github.io/dice3/)
+ Starfield | [CLICK TO VIEW!](https://olsonbj.github.io/starfield5/)
+ St. Olaf College Presentation | [CLICK TO VIEW!](https://docs.google.com/presentation/d/11Z_HYkniHpBh6d3EJUPXrt_Q0RzkkVbHX8872wpqX_M/edit#slide=id.p)
 
 ```Java
 void draw(){
