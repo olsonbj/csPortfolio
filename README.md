@@ -36,7 +36,6 @@ void mousePressed() {
   for (int i=0; i<a.length; i++) {
     if (mouseX>a[i].getX()-a[i].getR()&&mouseX<a[i].getX()+a[i].getR()&&mouseY<a[i].getY()+a[i].getR()&&mouseY>a[i].getY()-a[i].getR()) {
       allFiles[i].play();
-      //cursor(HAND);
     }
   }
 }
