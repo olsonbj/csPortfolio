@@ -1,11 +1,13 @@
-# Ben's csPortfolio
+# Ben Olson's ACS Portfolio!!!!!!!
+### WOWWIE!
 
-* WebPage [here](https://olsonbj.github.io/Bet/website/bet.html)
-* Lightning Java [here](https://olsonbj.github.io/lightning2/)
-* Dice [here](https://olsonbj.github.io/dice3/)
-* St. Olaf College Presentation [here](https://docs.google.com/presentation/d/11Z_HYkniHpBh6d3EJUPXrt_Q0RzkkVbHX8872wpqX_M/edit?usp=sharing)
-* Chemotaxis [here](https://github.com/olsonbj/chemotaxis4/blob/gh-pages/Chemotaxis.pde)
-* Starfield [here](https://olsonbj.github.io/starfield5/)
+Lab! | Link!
+---|---
+ Webpage | [open here!](
+ Lightning | [open here!](
+ Dice | [open here!](
+ Starfield | [open here!](
+ St. Olaf College Presentation | [open here!](
 
 ```Java
 void draw(){
