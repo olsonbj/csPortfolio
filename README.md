@@ -1,6 +1,6 @@
 # Ben Olson's ACS Portfolio!!!!!!!
 ### *OVERVIEW WOWWWWW!!!!!!*
-##### This wepbage is designed to showcase my code from Advanced Computer Science run by Dr. R. Projects include a webpage, lightning, dice, chemotaxis, starfield, and a college presentation.
+##### This wepbage is designed to showcase my code from Advanced Computer Science run by Dr. R. Projects include a webpage, lightning, dice, chemotaxis, starfield, a college presentation, and other projects!
 
 Project! | WEBPAGE!
 ---|---
@@ -10,6 +10,9 @@ Project! | WEBPAGE!
  Chemotaxis (Java Script - Beta) | [CLICK TO VIEW!](https://olsonbj.github.io/chemotaxis4/newBenJS/benJS/)
  Starfield | [CLICK TO VIEW!](https://olsonbj.github.io/starfield5/)
  St. Olaf College Presentation | [CLICK TO VIEW!](https://docs.google.com/presentation/d/11Z_HYkniHpBh6d3EJUPXrt_Q0RzkkVbHX8872wpqX_M/edit#slide=id.p)
+ Holiday Card | [CLICK TO VIEW!]( )
+ Data Project | [CLICK TO VIEW!]( )
+ Music Finder Game | [CLICK TO VIEW!]( ) 
 
 
 ### *HARD CODE! WOWWWWWW!*
