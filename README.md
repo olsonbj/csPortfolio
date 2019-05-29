@@ -10,7 +10,7 @@ Project! | WEBPAGE!
  Chemotaxis (Java Script - Beta) | [CLICK TO VIEW!](https://olsonbj.github.io/chemotaxis4/newBenJS/benJS/)
  Starfield | [CLICK TO VIEW!](https://olsonbj.github.io/starfield5/)
  St. Olaf College Presentation | [CLICK TO VIEW!](https://docs.google.com/presentation/d/11Z_HYkniHpBh6d3EJUPXrt_Q0RzkkVbHX8872wpqX_M/edit#slide=id.p)
- Holiday Card | [CLICK TO VIEW!]( )
+ Holiday Card | [CLICK TO VIEW!]( )https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/chemopic.png?token=AHSL5QZULCEWWKIRDJQZ3KK4645JK
  Data Project | [CLICK TO VIEW!]( )
  Music Finder Game | [CLICK TO VIEW!]( ) 
 
