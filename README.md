@@ -5,13 +5,13 @@
 Project! | WEBPAGE!
 ---|---
  Webpage | [CLICK TO VIEW!](https://olsonbj.github.io/Bet/)
- Lightning | [CLICK TO VIEW!]<img src="https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/lightningpic.png?token=AHSL5QYURNXSAMA6FTYVLBC464534">
- Dice | [CLICK TO VIEW!]<img src="https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/dicepic.png?token=AHSL5Q3KSSTNGWJJZDJUNXK46452Y">
+ Lightning | <img src="https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/lightningpic.png?token=AHSL5QYURNXSAMA6FTYVLBC464534">
+ Dice | <img src="https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/dicepic.png?token=AHSL5Q3KSSTNGWJJZDJUNXK46452Y">
  Chemotaxis (Java Script - Beta/Broken) | [CLICK TO VIEW!](https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/chemopic.png?token=AHSL5QZULCEWWKIRDJQZ3KK4645JK)
  Starfield | [CLICK TO VIEW!](https://olsonbj.github.io/starfield5/)
  St. Olaf College Presentation | [CLICK TO VIEW!](https://docs.google.com/presentation/d/11Z_HYkniHpBh6d3EJUPXrt_Q0RzkkVbHX8872wpqX_M/edit#slide=id.p)
- Holiday Card | [CLICK TO VIEW!]<img src="https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/holidaycardpic.png?token=AHSL5Q4FPN5L5OHZRPHMFHS46455O">
- Data Project | [CLICK TO VIEW!]<img src="https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/dataprojpic.png?token=AHSL5Q6LMHN73LQD5TSI5J24645YU">
+ Holiday Card | <img src="https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/holidaycardpic.png?token=AHSL5Q4FPN5L5OHZRPHMFHS46455O">
+ Data Project | <img src="https://raw.githubusercontent.com/ACS-2018-2019/Olson.B/master/projectpics/dataprojpic.png?token=AHSL5Q6LMHN73LQD5TSI5J24645YU">
  Music Finder Game | [CLICK TO VIEW!]() 
 
 
